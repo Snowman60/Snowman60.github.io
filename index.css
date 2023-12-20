@@ -388,11 +388,11 @@ nav {
     }
 
     .nav-links {
-        display: block;
+        display: flex;
     }
 
     .nav-links ul {
-        display: block;
+        display: flex;
     }
 
     .nav-links ul li {
